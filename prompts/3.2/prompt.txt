@@ -1,0 +1,3 @@
+-Each problem is unique.
+-These are only the problems, there are no solutions.
+-Written in markdown with LaTeX for mathematical expressions.

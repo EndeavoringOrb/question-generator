@@ -1,0 +1,2 @@
+Polynomials
+factor, then solve for x
